@@ -1,0 +1,5 @@
+classes= 1
+train  = /kaggle/working/wheat_data/labels/train.txt
+valid  = /kaggle/working/wheat_data/labels/train.txt
+names = cfg/wheat.names
+backup = backup
